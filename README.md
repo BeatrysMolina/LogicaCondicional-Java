@@ -1,2 +1,3 @@
-# LogicaCondicional-Java
-Curso de Lógica Condicional e Controle de Fluxos em Java na DIO.
+# Logica Condicional e Controle de Fluxos em Java
+
+Curso de Java básico da DIO.

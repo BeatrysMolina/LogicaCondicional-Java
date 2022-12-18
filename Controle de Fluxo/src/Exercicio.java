@@ -67,7 +67,7 @@ public class Exercicio {
 
     private static void ifSemFlecha() {
 
-        int mes = 9;
+        int mes = 10;
         if (mes == 1){
             System.out.println("Janeiro");
         } else if (mes == 2) {
@@ -92,12 +92,9 @@ public class Exercicio {
             System.out.println("Novembro");
         } else if (mes == 12) {
             System.out.println("Dezembro");
+        } else {
+        System.out.println("Mês indefinido");
         }
-    // }  if (mes == 12) {
-    //     System.out.println("Dezembro");
-    // } else {
-    //     System.out.println("Mês indefinido");
-    // }
     }
 
     private static void ifFerias() {
